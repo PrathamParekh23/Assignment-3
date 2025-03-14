@@ -24,4 +24,4 @@ class TestApp:
         assert res == numbers[0]
 
     def test_custom_multiplication(self):
-        assert multiply_by_two(16) == 50 # MY Student ID
+        assert multiply_by_two(16) == 32 # MY Student ID
